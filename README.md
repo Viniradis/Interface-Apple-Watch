@@ -2,7 +2,7 @@
  
  Criação de interface do relogio apple watch.
  ---
-![netflix](https://user-images.githubusercontent.com/79069373/114936729-3377f980-9e13-11eb-82eb-5505a90f9939.jpg)
+![apple](https://lh5.googleusercontent.com/-jt2RjWn9z42IzzJsvQ0Qewa9Lx8Y8CWet-mVj91WyjTmufuFlipdYD5tz_OSrjUKfy_X4AEjCiOd54GoHAhRtn86hAt7kWbYtijB6HT7Ka_leizEvCUlJiVn3Km3m58eOkdZhID)
 
 
 ---
