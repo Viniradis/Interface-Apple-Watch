@@ -98,7 +98,7 @@ img {
     top: 50%;
     left: 60%;
     transform: translate(-50%,-50%); rotate:(-50deg);
-    animation: move 2s infinite alternate;
+    animation: move 1s infinite alternate;
 }
     
 
