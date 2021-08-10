@@ -94,11 +94,11 @@ body {
 }
 img {
     position: absolute;
-    width: 60%;
-    top: 50%;
-    left: 60%;
+    width: 50%;
+    top: 30%;
+    left: 50%;
     transform: translate(-50%,-50%); rotate:(-50deg);
-    animation: move 1s infinite alternate;
+    animation: move  infinite alternate;
 }
     
 
