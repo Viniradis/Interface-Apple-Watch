@@ -32,7 +32,7 @@ Para o clone desse layout, escolhi usar o Relogio Apple Watch e pude treinar cad
 
 <table align="center">
    <tr>
-    <td valign="top"><img src="https://lh3.googleusercontent.com/XL1IvvTppClQBjdGJu0tSN7D9YCNQQiaZgxn1IFqOzX8wvuua4rZgYpo4yUSQvYIBSwkMweFAhqyDe8iXL37Eihs7MfVTTiZGVQLfPw-AGUXPJzpLA1JUXaGcZsaMtXBA78Zg1W5aUl_cK1EHRib22DsNFanaVdniW__w7pVOsTtzqYhbk027w7QtR3Uc2cSQAQEdrJ1v3ajUXZkioxf3bg--SVmWJ5yGE8p4dcvUOqiM9pnuyg5Qawi-mrZXNB6XDkL12OyOSg-eilQX1tSiK8mt2UALu-UsUF75sl5mPAI5_dNmiVQdVOkAVQRtMQ2-MBKgRHbyxAjc9ywjZY8ClfMllEb1vwHzWcw3zQhUz9VzxSAIQvzRXF4o4xR_dpPI5FdM7ACe23cQmsz1O88u--owArH2wL4niTbfXxMkmKIDmRdx_lFAuM9NKsA2E3Qvs_aSEl-xdM3glk_PyO47Pi5dQ1AuBVtwm1kWt0z1qP8l4HXXmXneWqenRawSPdHtsODEGcQ2ePjkVUMzFFHfHVIdacMKW5zjE838VlLkNnEdjRvYC_KNt6slzNB6a8stDmxkodkYKyXk-7Th7VT_TbX597NDmrDDASXoUUOoNWqnSiNjH87yh7Fh4Dxko_GXtqEkSCgPV6iNH0Z1hYbmchq6H0v0aKEWeRrZISo9EXnMrey5ukvbXmOEoMKUWF0FEpMvCPW8X2vSTF_a5kWQxM=w1274-h637-no?authuser=0"
+    <td valign="top"><img src="https://media.giphy.com/media/OXFOs2JzeZnytk6S4b/giphy.gif"
 "
 "> </td>
     
