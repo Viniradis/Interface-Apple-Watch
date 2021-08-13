@@ -39,6 +39,8 @@ Para o clone desse layout, escolhi usar o Relogio Apple Watch e pude treinar cad
    </tr>
  </table>
  <br>
+ 
+ ![foto apple watch](https://lh3.googleusercontent.com/9FrkjKhLrOKKw-ZQE-YP8-6jA5PU14J58t6z2Px7W-7a0TgvMh6XXPLFUXkEjPRQ1VY-juVLwW7HZbYyHawzQoUUvafnUwjjzLAS-96eiHlLDkAQa3CNSzoLd1MTORlupu5owC6C-tNm0bDHXBCOKGBOUlFkryVmtwmCV7zom536wu95f6kvncKvl_lWzXGctT5oWZF-szAbaSnplS6klOcXJ-EK4BJ1zGvWwxlaZHRA3c6_FyDJS7O0iL0kHb7slnjSqFx45Mfx8-IGjXPq5iNQjNzNLH0LXGaiMNqSk-evDueSAqOIgMY-Em7qBJtfNkUNTNdLUUHVMygBkP1N1PeMqsgQy2Jg6HO8ckHl-QPyGfmhcWhyFBbpKRSSGhf0uxbajPLmqYYPlwINqVAZdZ7cBVxo30sx4SXjTAiVvV8RB5nL3p-QLSH6HSq-6QvtyZFsMsO3TfGnLKmUj61bu6k-cq8RD1SIFqCYPuNsafwTwl7dVPBPnRK0dI_Oc7DWl-SFkulU7dWMeGZutDxjk3JUFwhovWY59xltm1xj1JDp6B0-nda3f5bYfbEnn_2FtmjG0b3xR-R5RlbEqtMACdu5lh-4PrHCbR1tkDI5bLq2BlAi46mSap7Yt8tbRzEFJXNQ51aPu_fQR_3cfVeh5Ju0svOn1b9FBJE3W-Ae07o8SewgPw4iFfMBsIw6YXwBsRNHqyT_xY30hHSnQPFB9Nc=w1274-h637-no?authuser=0)
 
 
 
