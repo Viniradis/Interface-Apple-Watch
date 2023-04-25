@@ -58,8 +58,7 @@ Para o clone desse layout, escolhi usar o Relogio Apple Watch e pude treinar cad
  Feito por <b>Vinicius Radis</b></a>  <a href="https://github.com/Viniradis"> </a>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-radis/)](https://www.linkedin.com/in/vin%C3%ADcius-radis/)
-[![Gmail Badge](https://img.shields.io/badge/-viniradis@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniradis@gmail.com)](mailto:viniradis@gmail.com)<br>
+
 
 
 <p align="center"> <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green"> </p>
